@@ -1,0 +1,7 @@
+<resources>
+<string name="app_name_short">ISM</string>
+<string name="app_name">International School of Monaco</string>
+
+<string name="action_settings">Settings</string>
+<string name="ismSenderId">815853566871</string>
+</resources>
